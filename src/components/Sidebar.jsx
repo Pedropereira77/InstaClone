@@ -1,15 +1,15 @@
 // src/components/Sidebar.jsx
 const Sidebar = () => {
   const options = [
-    "Página Inicial",
-    "Pesquisa",
-    "Explorar",
-    "Reels",
-    "Mensagens",
-    "Notificações",
-    "Criar",
-    "Painel",
-    "Perfil",
+    "🏚 Página Inicial",
+    "🔍 Pesquisa",
+    "🌄 Explorar",
+    "🎞 Reels",
+    "🗨 Mensagens",
+    "🔔 Notificações",
+    "💡 Criar",
+    "⚙ Painel",
+    "😃 Perfil",
   ];
 
   return (
